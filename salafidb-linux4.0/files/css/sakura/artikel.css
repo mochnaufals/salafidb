@@ -1,0 +1,122 @@
+#arabic
+{
+    Font-family : "Traditional Arabic";
+    Font-weight : 400;
+    Font-size : 26pt;
+    Color : maroon;
+    Padding-top : 0.3cm;
+	Text-align : right;
+}
+#keterangan
+{
+    Font-family : georgia;
+    Font-variant : small-caps;
+    Font-size : small;
+    Color : maroon;
+    Text-indent : 0em;
+    Background-color : rgb(255 , 255 , 204);
+}
+#singkatan
+{
+    Font-family : "AGA Arabesque";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Font-size : larger;
+}
+
+#singkatan2
+{
+    Font-family : "Traditional Arabic";
+    Font-variant : normal;
+    Vertical-align : middle;
+Font-size : medium;
+}
+#isi
+{
+    Font-family : "Trebuchet MS";
+    Font-variant : normal;
+    Font-weight : bold;
+    Font-size : medium;
+    Color : rgb(0 , 51 , 0);
+    Text-align : left;
+	Margin-bottom : 0.5cm;
+}
+#header
+{
+    Text-indent : 0.5em;
+    Border-style : ridge;
+}
+#subjudul
+{
+    font-family : "Georgia";
+    font-weight : 500;
+    font-size : small;
+    /*ext-indent : 2em;*/
+    Text-align : center;
+    Color : green;
+    Margin-top : 0.3cm;
+}
+#judul
+{
+    font-family : "Trebuchet MS";
+    Color : rgb(0 , 0 , 153);
+    font-style : normal;
+    font-weight : 500;
+    font-size : 17pt;
+    Text-align : center;
+    Font-variant : small-caps;
+    Color : green;
+}
+body
+{
+    Background-image : url("sakura.jpg");
+    Background-position : top left;
+    Background-repeat : repeat-y;
+    color : rgb(85 , 87 , 83);
+    font-family : "Arb Times New Roman" , "MS Sans Serif";
+    font-size : 8pt;
+}
+#container
+{
+    padding : 0px 10px 0px 35px;
+    font-style : normal;
+    font-variant : normal;
+    font-size : 11pt;
+    Font-family : georgia;
+    Text-align : left;
+}
+#penulis
+{
+    font-family : "Georgia";
+    font-weight : 500;
+    font-size : small;
+    Text-align : center;
+    Color : rgb(0 , 0 , 153);
+    Margin-top : 0.5cm;
+	Margin-bottom : 0.7cm;
+    /*Padding-left : 30px;*/
+    Background-image : url("books.gif");
+    Background-position : center left;
+    Background-repeat : no-repeat;
+}
+#copyright
+{
+    font-family : sans-serif;
+    color : blue;
+    font-style : normal;
+    font-size : small;
+    Text-align : left;
+    Text-indent : 1em;
+    Font-variant : normal;
+}
+#subbab1
+{
+    color : green;
+    font-size : large;
+}
+#subbab2
+{
+    color : green;
+    font-size : medium;
+    font-style : italic;
+}

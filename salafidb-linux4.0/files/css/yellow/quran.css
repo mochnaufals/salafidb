@@ -1,0 +1,145 @@
+#titleatbottom{
+    Font-size : small;
+    Padding-top : 0.5cm;
+    Color : black;
+    Text-align : right
+}
+#transliteration
+{
+    Color : green;
+    Margin-top : 0.5cm;
+    Font-style : italic;
+    Font-size : small;
+}
+body
+{
+    Font-family : sans-serif;
+    color : rgb(85 , 87 , 83);
+    Background-image : url("we-yellow2.jpg");
+    Background-repeat : repeat-y;
+    Background-position : top left;
+}
+#yusuftext
+{
+    Font-size : medium;
+    Padding-top : 0.5cm;
+    Color : black;
+}
+
+#khantext
+{
+    Font-size : medium;
+    Padding-top : 0.5cm;
+    Color : black;
+}
+#yusuftitle
+{
+    Padding-top : 0.8cm;
+    Font-size : large;
+    Color : maroon;
+    Text-indent : 0em;
+    Font-variant : small-caps;
+}
+#khantitle
+{
+    Padding-top : 0.7cm;
+    Font-size : large;
+    Color : maroon;
+    Text-indent : 0em;
+    Font-variant : small-caps;
+}
+#footnotenumber
+{
+    Font-size : small;
+    Color : maroon;
+    Vertical-align : super;
+}
+#footnoteline
+{
+    Color : black;
+    Text-align : left;
+    Text-indent : 0em;
+    Padding-top : 1em;
+}
+#footnote
+{
+    Font-variant : small-caps;
+    Font-weight : 400;
+    Font-size : small;
+    Color : black;
+    Text-indent : 0em;
+    Padding-bottom : 0.5cm;
+}
+#translationtext
+{
+    Font-variant : normal;
+    Font-weight : 420;
+    Font-size : medium;
+    Color : rgb(0 , 51 , 0);
+    Padding-top : 0.5cm;
+    Padding-bottom : 0.8cm;
+    Text-align : left;
+}
+
+#arabic
+{
+    Font-family : "Traditional Arabic";
+    Font-weight : normal;
+    Font-size : xx-large;
+    Color : black;
+    Padding-top : 1.0cm;
+    Text-align : right;
+}
+
+
+#title
+{
+    color : maroon;
+    Font-size : large;
+}
+#container
+{
+    padding : 0px 10px 0px 30px;
+    font-style : normal;
+    font-variant : normal;
+}
+#verse
+{
+    font-weight : 500;
+    font-size : large;
+    Text-align : center;
+    color : maroon;
+}
+#surah
+{
+    font-style : normal;
+    font-weight : 700;
+    font-size : large;
+    Text-align : center;
+    Font-variant : small-caps;
+    color : maroon;
+}
+#copyright
+{
+    font-family : sans-serif;
+    color : blue;
+    font-style : normal;
+    font-size : small;
+    Text-align : left;
+    Text-indent : 1cm;
+    Font-variant : normal;
+}
+#singkatan
+{
+    Font-family : "AGA Arabesque";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Font-size : small;
+}
+#singkatan2
+{
+    Font-family : "Traditional Arabic";
+    Font-variant : normal;
+    Vertical-align : middle;
+ Font-size : medium;
+}

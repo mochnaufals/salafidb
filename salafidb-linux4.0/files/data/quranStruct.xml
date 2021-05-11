@@ -1,0 +1,571 @@
+<data><surat>
+<urutansurat>1</urutansurat>
+<name>Al Fatihah</name>
+<jumlahayat>7</jumlahayat>
+</surat>
+<surat>
+<urutansurat>2</urutansurat>
+<name>Al Baqarah</name>
+<jumlahayat>286</jumlahayat>
+</surat>
+<surat>
+<urutansurat>3</urutansurat>
+<name>Ali Imran</name>
+<jumlahayat>200</jumlahayat>
+</surat>
+<surat>
+<urutansurat>4</urutansurat>
+<name>An Nisaa</name>
+<jumlahayat>176</jumlahayat>
+</surat>
+<surat>
+<urutansurat>5</urutansurat>
+<name>Al Maidah</name>
+<jumlahayat>120</jumlahayat>
+</surat>
+<surat>
+<urutansurat>6</urutansurat>
+<name>Al An'am</name>
+<jumlahayat>165</jumlahayat>
+</surat>
+<surat>
+<urutansurat>7</urutansurat>
+<name>Al A'raf</name>
+<jumlahayat>206</jumlahayat>
+</surat>
+<surat>
+<urutansurat>8</urutansurat>
+<name>Al Anfaal</name>
+<jumlahayat>75</jumlahayat>
+</surat>
+<surat>
+<urutansurat>9</urutansurat>
+<name>At Taubah</name>
+<jumlahayat>129</jumlahayat>
+</surat>
+<surat>
+<urutansurat>10</urutansurat>
+<name>Yunus</name>
+<jumlahayat>109</jumlahayat>
+</surat>
+<surat>
+<urutansurat>11</urutansurat>
+<name>Huud</name>
+<jumlahayat>123</jumlahayat>
+</surat>
+<surat>
+<urutansurat>12</urutansurat>
+<name>Yusuf</name>
+<jumlahayat>111</jumlahayat>
+</surat>
+<surat>
+<urutansurat>13</urutansurat>
+<name>Ar Ra'd</name>
+<jumlahayat>43</jumlahayat>
+</surat>
+<surat>
+<urutansurat>14</urutansurat>
+<name>Ibrahim</name>
+<jumlahayat>52</jumlahayat>
+</surat>
+<surat>
+<urutansurat>15</urutansurat>
+<name>Al Hijr</name>
+<jumlahayat>99</jumlahayat>
+</surat>
+<surat>
+<urutansurat>16</urutansurat>
+<name>An Nahl</name>
+<jumlahayat>128</jumlahayat>
+</surat>
+<surat>
+<urutansurat>17</urutansurat>
+<name>Al Israa'</name>
+<jumlahayat>111</jumlahayat>
+</surat>
+<surat>
+<urutansurat>18</urutansurat>
+<name>Al Kahfi</name>
+<jumlahayat>110</jumlahayat>
+</surat>
+<surat>
+<urutansurat>19</urutansurat>
+<name>Maryam</name>
+<jumlahayat>98</jumlahayat>
+</surat>
+<surat>
+<urutansurat>20</urutansurat>
+<name>Thaahaa</name>
+<jumlahayat>135</jumlahayat>
+</surat>
+<surat>
+<urutansurat>21</urutansurat>
+<name>Al Anbiyaa'</name>
+<jumlahayat>112</jumlahayat>
+</surat>
+<surat>
+<urutansurat>22</urutansurat>
+<name>Al Hajj</name>
+<jumlahayat>78</jumlahayat>
+</surat>
+<surat>
+<urutansurat>23</urutansurat>
+<name>Al Mu'minuun</name>
+<jumlahayat>118</jumlahayat>
+</surat>
+<surat>
+<urutansurat>24</urutansurat>
+<name>An Nuur</name>
+<jumlahayat>64</jumlahayat>
+</surat>
+<surat>
+<urutansurat>25</urutansurat>
+<name>Al Furqaan</name>
+<jumlahayat>77</jumlahayat>
+</surat>
+<surat>
+<urutansurat>26</urutansurat>
+<name>Asy Syu'araa</name>
+<jumlahayat>227</jumlahayat>
+</surat>
+<surat>
+<urutansurat>27</urutansurat>
+<name>An Naml</name>
+<jumlahayat>93</jumlahayat>
+</surat>
+<surat>
+<urutansurat>28</urutansurat>
+<name>Al Qashash</name>
+<jumlahayat>88</jumlahayat>
+</surat>
+<surat>
+<urutansurat>29</urutansurat>
+<name>Al 'Ankabuut</name>
+<jumlahayat>69</jumlahayat>
+</surat>
+<surat>
+<urutansurat>30</urutansurat>
+<name>Ar Ruum</name>
+<jumlahayat>60</jumlahayat>
+</surat>
+<surat>
+<urutansurat>31</urutansurat>
+<name>Luqman</name>
+<jumlahayat>34</jumlahayat>
+</surat>
+<surat>
+<urutansurat>32</urutansurat>
+<name>As Sajdah</name>
+<jumlahayat>30</jumlahayat>
+</surat>
+<surat>
+<urutansurat>33</urutansurat>
+<name>Al Ahzab</name>
+<jumlahayat>73</jumlahayat>
+</surat>
+<surat>
+<urutansurat>34</urutansurat>
+<name>Saba'</name>
+<jumlahayat>54</jumlahayat>
+</surat>
+<surat>
+<urutansurat>35</urutansurat>
+<name>Faathir</name>
+<jumlahayat>45</jumlahayat>
+</surat>
+<surat>
+<urutansurat>36</urutansurat>
+<name>Yaa Siin</name>
+<jumlahayat>83</jumlahayat>
+</surat>
+<surat>
+<urutansurat>37</urutansurat>
+<name>Ash-Shaaffat</name>
+<jumlahayat>182</jumlahayat>
+</surat>
+<surat>
+<urutansurat>38</urutansurat>
+<name>Shaad</name>
+<jumlahayat>88</jumlahayat>
+</surat>
+<surat>
+<urutansurat>39</urutansurat>
+<name>Az-Zumar</name>
+<jumlahayat>75</jumlahayat>
+</surat>
+<surat>
+<urutansurat>40</urutansurat>
+<name>Al Mu'min</name>
+<jumlahayat>85</jumlahayat>
+</surat>
+<surat>
+<urutansurat>41</urutansurat>
+<name>Fush Shilat</name>
+<jumlahayat>54</jumlahayat>
+</surat>
+<surat>
+<urutansurat>42</urutansurat>
+<name>Asy Syuura</name>
+<jumlahayat>53</jumlahayat>
+</surat>
+<surat>
+<urutansurat>43</urutansurat>
+<name>Az Zukhruf</name>
+<jumlahayat>89</jumlahayat>
+</surat>
+<surat>
+<urutansurat>44</urutansurat>
+<name>Ad Dukhaan</name>
+<jumlahayat>59</jumlahayat>
+</surat>
+<surat>
+<urutansurat>45</urutansurat>
+<name>Al Jaatsiyah</name>
+<jumlahayat>37</jumlahayat>
+</surat>
+<surat>
+<urutansurat>46</urutansurat>
+<name>Al Ahqaaf</name>
+<jumlahayat>35</jumlahayat>
+</surat>
+<surat>
+<urutansurat>47</urutansurat>
+<name>Muhammad</name>
+<jumlahayat>38</jumlahayat>
+</surat>
+<surat>
+<urutansurat>48</urutansurat>
+<name>Al Fat-h</name>
+<jumlahayat>29</jumlahayat>
+</surat>
+<surat>
+<urutansurat>49</urutansurat>
+<name>Al Hujuraat</name>
+<jumlahayat>18</jumlahayat>
+</surat>
+<surat>
+<urutansurat>50</urutansurat>
+<name>Qaaf</name>
+<jumlahayat>45</jumlahayat>
+</surat>
+<surat>
+<urutansurat>51</urutansurat>
+<name>Adz-Dzaariya</name>
+<jumlahayat>60</jumlahayat>
+</surat>
+<surat>
+<urutansurat>52</urutansurat>
+<name>Ath-Thuur</name>
+<jumlahayat>49</jumlahayat>
+</surat>
+<surat>
+<urutansurat>53</urutansurat>
+<name>An-Najm</name>
+<jumlahayat>62</jumlahayat>
+</surat>
+<surat>
+<urutansurat>54</urutansurat>
+<name>Al-Qamar</name>
+<jumlahayat>55</jumlahayat>
+</surat>
+<surat>
+<urutansurat>55</urutansurat>
+<name>Ar Rahmaan</name>
+<jumlahayat>78</jumlahayat>
+</surat>
+<surat>
+<urutansurat>56</urutansurat>
+<name>Al Waaqi'ah</name>
+<jumlahayat>96</jumlahayat>
+</surat>
+<surat>
+<urutansurat>57</urutansurat>
+<name>Al Hadiid</name>
+<jumlahayat>29</jumlahayat>
+</surat>
+<surat>
+<urutansurat>58</urutansurat>
+<name>Al Mujaadila</name>
+<jumlahayat>22</jumlahayat>
+</surat>
+<surat>
+<urutansurat>59</urutansurat>
+<name>Al Hasyr</name>
+<jumlahayat>24</jumlahayat>
+</surat>
+<surat>
+<urutansurat>60</urutansurat>
+<name>Al Mumtahana</name>
+<jumlahayat>13</jumlahayat>
+</surat>
+<surat>
+<urutansurat>61</urutansurat>
+<name>Ash-Shaff</name>
+<jumlahayat>14</jumlahayat>
+</surat>
+<surat>
+<urutansurat>62</urutansurat>
+<name>Al Jumuah</name>
+<jumlahayat>11</jumlahayat>
+</surat>
+<surat>
+<urutansurat>63</urutansurat>
+<name>Al Munaafiqu</name>
+<jumlahayat>11</jumlahayat>
+</surat>
+<surat>
+<urutansurat>64</urutansurat>
+<name>At Taghaabun</name>
+<jumlahayat>18</jumlahayat>
+</surat>
+<surat>
+<urutansurat>65</urutansurat>
+<name>Ath Thalaaq</name>
+<jumlahayat>12</jumlahayat>
+</surat>
+<surat>
+<urutansurat>66</urutansurat>
+<name>At Tahriim</name>
+<jumlahayat>12</jumlahayat>
+</surat>
+<surat>
+<urutansurat>67</urutansurat>
+<name>Al Mulk</name>
+<jumlahayat>30</jumlahayat>
+</surat>
+<surat>
+<urutansurat>68</urutansurat>
+<name>Al Qalam</name>
+<jumlahayat>52</jumlahayat>
+</surat>
+<surat>
+<urutansurat>69</urutansurat>
+<name>Al Haaqqah</name>
+<jumlahayat>52</jumlahayat>
+</surat>
+<surat>
+<urutansurat>70</urutansurat>
+<name>Al Ma'aarij</name>
+<jumlahayat>44</jumlahayat>
+</surat>
+<surat>
+<urutansurat>71</urutansurat>
+<name>Nuh</name>
+<jumlahayat>28</jumlahayat>
+</surat>
+<surat>
+<urutansurat>72</urutansurat>
+<name>Al Jin</name>
+<jumlahayat>28</jumlahayat>
+</surat>
+<surat>
+<urutansurat>73</urutansurat>
+<name>Al Muzzammil</name>
+<jumlahayat>20</jumlahayat>
+</surat>
+<surat>
+<urutansurat>74</urutansurat>
+<name>Al Muddatsts</name>
+<jumlahayat>56</jumlahayat>
+</surat>
+<surat>
+<urutansurat>75</urutansurat>
+<name>Al Qiyaamah</name>
+<jumlahayat>40</jumlahayat>
+</surat>
+<surat>
+<urutansurat>76</urutansurat>
+<name>Al Insaan</name>
+<jumlahayat>31</jumlahayat>
+</surat>
+<surat>
+<urutansurat>77</urutansurat>
+<name>Al Mursalaat</name>
+<jumlahayat>50</jumlahayat>
+</surat>
+<surat>
+<urutansurat>78</urutansurat>
+<name>An-Naba'</name>
+<jumlahayat>40</jumlahayat>
+</surat>
+<surat>
+<urutansurat>79</urutansurat>
+<name>An-Naazi'aat</name>
+<jumlahayat>46</jumlahayat>
+</surat>
+<surat>
+<urutansurat>80</urutansurat>
+<name>'Abasa</name>
+<jumlahayat>42</jumlahayat>
+</surat>
+<surat>
+<urutansurat>81</urutansurat>
+<name>At-Takwiir</name>
+<jumlahayat>29</jumlahayat>
+</surat>
+<surat>
+<urutansurat>82</urutansurat>
+<name>Al Infithaar</name>
+<jumlahayat>19</jumlahayat>
+</surat>
+<surat>
+<urutansurat>83</urutansurat>
+<name>Al Muthaffif</name>
+<jumlahayat>36</jumlahayat>
+</surat>
+<surat>
+<urutansurat>84</urutansurat>
+<name>Al Insyiqaaq</name>
+<jumlahayat>25</jumlahayat>
+</surat>
+<surat>
+<urutansurat>85</urutansurat>
+<name>Al Buruuj</name>
+<jumlahayat>22</jumlahayat>
+</surat>
+<surat>
+<urutansurat>86</urutansurat>
+<name>Ath-Thaariq</name>
+<jumlahayat>17</jumlahayat>
+</surat>
+<surat>
+<urutansurat>87</urutansurat>
+<name>Al A'laa</name>
+<jumlahayat>19</jumlahayat>
+</surat>
+<surat>
+<urutansurat>88</urutansurat>
+<name>Al Ghaasyiya</name>
+<jumlahayat>26</jumlahayat>
+</surat>
+<surat>
+<urutansurat>89</urutansurat>
+<name>Al Fajr</name>
+<jumlahayat>30</jumlahayat>
+</surat>
+<surat>
+<urutansurat>90</urutansurat>
+<name>Al Balad</name>
+<jumlahayat>20</jumlahayat>
+</surat>
+<surat>
+<urutansurat>91</urutansurat>
+<name>Asy-Syams</name>
+<jumlahayat>15</jumlahayat>
+</surat>
+<surat>
+<urutansurat>92</urutansurat>
+<name>Al Lail</name>
+<jumlahayat>21</jumlahayat>
+</surat>
+<surat>
+<urutansurat>93</urutansurat>
+<name>Adh Dhuhaa</name>
+<jumlahayat>11</jumlahayat>
+</surat>
+<surat>
+<urutansurat>94</urutansurat>
+<name>Alam Nasyrah</name>
+<jumlahayat>8</jumlahayat>
+</surat>
+<surat>
+<urutansurat>95</urutansurat>
+<name>At Tiin</name>
+<jumlahayat>8</jumlahayat>
+</surat>
+<surat>
+<urutansurat>96</urutansurat>
+<name>Al 'Alaq</name>
+<jumlahayat>19</jumlahayat>
+</surat>
+<surat>
+<urutansurat>97</urutansurat>
+<name>Al Qadr</name>
+<jumlahayat>5</jumlahayat>
+</surat>
+<surat>
+<urutansurat>98</urutansurat>
+<name>Al Bayyinah</name>
+<jumlahayat>8</jumlahayat>
+</surat>
+<surat>
+<urutansurat>99</urutansurat>
+<name>Az Zalzalah</name>
+<jumlahayat>8</jumlahayat>
+</surat>
+<surat>
+<urutansurat>100</urutansurat>
+<name>Al 'Aadiyaat</name>
+<jumlahayat>11</jumlahayat>
+</surat>
+<surat>
+<urutansurat>101</urutansurat>
+<name>Al Qaari'ah</name>
+<jumlahayat>11</jumlahayat>
+</surat>
+<surat>
+<urutansurat>102</urutansurat>
+<name>At-Takaatsur</name>
+<jumlahayat>8</jumlahayat>
+</surat>
+<surat>
+<urutansurat>103</urutansurat>
+<name>Al 'Ashr</name>
+<jumlahayat>3</jumlahayat>
+</surat>
+<surat>
+<urutansurat>104</urutansurat>
+<name>Al Humazah</name>
+<jumlahayat>9</jumlahayat>
+</surat>
+<surat>
+<urutansurat>105</urutansurat>
+<name>Al Fiil</name>
+<jumlahayat>5</jumlahayat>
+</surat>
+<surat>
+<urutansurat>106</urutansurat>
+<name>Quraisy</name>
+<jumlahayat>4</jumlahayat>
+</surat>
+<surat>
+<urutansurat>107</urutansurat>
+<name>Al Maa'uun</name>
+<jumlahayat>7</jumlahayat>
+</surat>
+<surat>
+<urutansurat>108</urutansurat>
+<name>Al Kautsar</name>
+<jumlahayat>3</jumlahayat>
+</surat>
+<surat>
+<urutansurat>109</urutansurat>
+<name>Al Kaafiruun</name>
+<jumlahayat>6</jumlahayat>
+</surat>
+<surat>
+<urutansurat>110</urutansurat>
+<name>An-Nashr</name>
+<jumlahayat>3</jumlahayat>
+</surat>
+<surat>
+<urutansurat>111</urutansurat>
+<name>Al-Lahab</name>
+<jumlahayat>5</jumlahayat>
+</surat>
+<surat>
+<urutansurat>112</urutansurat>
+<name>Al Ikhlash</name>
+<jumlahayat>4</jumlahayat>
+</surat>
+<surat>
+<urutansurat>113</urutansurat>
+<name>Al Falaq</name>
+<jumlahayat>5</jumlahayat>
+</surat>
+<surat>
+<urutansurat>114</urutansurat>
+<name>An-Naas</name>
+<jumlahayat>6</jumlahayat>
+</surat>
+</data>

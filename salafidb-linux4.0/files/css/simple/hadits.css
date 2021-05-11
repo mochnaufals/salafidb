@@ -1,0 +1,149 @@
+body
+{
+    Background-image : none;
+    Font-size : medium;
+    Font-family : georgia;
+}
+#footnotenumber
+{
+    Font-size : small;
+    Color : #006633;
+}
+#footnote
+{
+    Font-weight : 400;
+    Font-size : small;
+    Color : black;
+    Padding-bottom : 0.5cm;
+}
+#bab
+{
+    Color : #cc0066;
+    Font-weight : bold;
+}
+#kitab
+{
+    Color : #cc0066;
+    Font-weight : bold;
+    Padding-top : 0.5cm;
+}
+#arabic
+{
+    Font-family : "Traditional Arabic";
+    Font-weight : 400;
+    Font-size : x-large;
+    Color : black;
+    Padding-top : 0.5cm;
+    Text-align : right;
+    Text-indent : 1em;
+    Padding-bottom : 0.5cm;
+}
+
+#judul
+{
+    Text-align : center;
+    Background-repeat : no-repeat;
+    Background-position : top left;
+    Background-color : transparent;
+    color : #666600;
+    Font-size : large;
+}
+
+#kitabhadits
+{
+    font-weight : 700;
+    Text-align : center;
+    Font-variant : small-caps;
+    Color : green;	
+}
+#penulis
+{
+    font-weight : 500;
+    Text-align : center;
+    Padding-bottom : 0.5cm;
+    Color : green;
+    Font-size : medium;
+}
+
+#container
+{
+    padding : 0px 5px 0px 10px;
+    font-style : normal;
+    font-variant : normal;
+    font-size : medium;
+    Text-align : left;
+}
+
+#penjelasanjudul
+{
+    Font-weight : bold;
+    Padding-top : 1.cm;
+    Padding-bottom : 0.5cm;
+    Color : black;
+}
+#penjelasanisi
+{
+    Color : black;
+    Font-variant : normal;
+    Font-style : normal;
+    font-size : medium;
+}
+#penjelasansumber
+{
+    Font-variant : small-caps;
+    Font-size : x-small;
+    Color : rgb(0 , 51 , 51);
+    Text-indent : 0em;
+}
+#keterangan
+{
+    Color : #cc0066;
+    Text-indent : 0em;
+    Font-size : small;
+}
+#matanheader
+{
+}
+#matantail
+{
+    Font-variant : normal;
+    Color : maroon;
+    Padding-bottom : 0.5em;
+    Padding-top : 0.5cm;
+    Text-align : left;
+}
+#matanisi
+{
+    font-weight : 450;
+    Text-align : left;
+    Color: black;
+    Text-align : left;
+}
+
+
+#matan
+{
+    Font-variant : normal;
+    Font-weight : normal;
+    Color : rgb(0 , 51 , 0);
+    Padding-top : 0.5cm;
+    Padding-bottom : 0.8cm;
+}
+
+#copyright
+{
+    Font-family : sans-serif;
+    color : blue;
+    Text-align : left;
+    Text-indent : 1em;
+    Padding-bottom : 0.8cm;
+    Font-size : small;
+}
+#singkatan2
+{
+    Font-family : "Traditional Arabic";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Color : green;
+    Font-size : medium;
+}

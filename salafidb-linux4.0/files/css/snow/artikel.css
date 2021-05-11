@@ -1,0 +1,116 @@
+#arabic
+{
+    Font-family : "Traditional Arabic";
+    Font-weight : 400;
+    Font-size : x-large;
+    Color : maroon;
+    Padding-top : 0.5em;
+    Text-align :right;
+}
+
+#keterangan
+{
+    Font-variant : small-caps;
+    Font-size : small;
+    Color : white;
+    Text-indent : 0em;
+    Background-color : #0099FF;
+}
+
+#singkatan
+{
+    Font-family : "AGA Arabesque";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Font-size : small;
+}
+
+#singkatan2
+{
+    Font-family : "Traditional Arabic";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Font-size : medium;
+}
+#isi
+{
+    Font-variant : normal;
+    Font-weight : bold;
+    Font-size : medium;
+    Color : rgb(0 , 51 , 0);
+    Text-align : left;
+    Margin-bottom : 0.5cm;
+}
+
+#subjudul
+{
+    font-family : "Georgia";
+    font-weight : 500;
+    font-size : small;
+    Text-align : center;
+    Color : #3399ff;
+    Font-style: italic;
+    Margin-top : 0.3cm;
+}
+#judul
+{
+    font-family : "Trebuchet MS";
+    color : #3399ff;
+    font-style : normal;
+    font-weight : 500;
+    font-size : large;
+    Text-align : center;
+    Font-variant : small-caps;
+    /*Background-image : url("title.gif");
+    Background-position : center left;
+    Background-repeat : no-repeat;*/
+
+}
+body
+{
+    color : rgb(153, 0, 51);
+    Background-image : url("snow.gif");
+    Background-repeat : repeat-y;
+    Background-position : top left;
+    Font-family : "Trebuchet MS";
+}
+#container
+{
+    padding : 0px 10px 0px 35px;
+    font-style : normal;
+    font-variant : normal;
+    Text-align : left;
+}
+#penulis
+{
+    font-weight : 500;
+    font-size : small;
+    Text-align : center;
+    Color : maroon;
+    Margin-top : 0.7cm;
+    Padding-left : 30px;
+    Background-image : url("book.gif");
+    Background-position : center left;
+    Background-repeat : no-repeat;
+}
+#copyright
+{
+    font-family : sans-serif;
+    color : blue;
+    font-style : normal;
+    font-size : small;
+    Text-align : left;
+    Text-indent : 1em;
+    Font-variant : normal;
+}
+#subbab1
+{
+    color : blue;
+    font-size : large;
+}
+#subbab2
+{
+    color : blue;
+    font-size : medium;
+    font-style : italic;
+}

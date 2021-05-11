@@ -1,0 +1,56 @@
+TD
+{
+    FONT-SIZE : 10px;
+    COLOR : rgb(0 , 0 , 0);
+    FONT-FAMILY : Verdana , Arial , helvetica , sans-serif;
+}
+TD.AyahText
+{
+    FONT-SIZE : 16px;
+    COLOR : maroon;
+    FONT-FAMILY : Comic Sans MS , Verdana , Arial , helvetica , sans-serif;
+}
+#surahdesc
+{
+    FONT-SIZE : 16px;
+    COLOR : rgb(0 , 0 , 0);
+    FONT-FAMILY : Verdana , Arial , helvetica , sans-serif;
+}
+#header
+{
+    FONT-SIZE : 16px;
+    COLOR : rgb(0 , 0 , 0);
+    FONT-FAMILY : Verdana , Arial , helvetica , sans-serif;
+    Background-image : url("head-background.jpg");
+    Background-repeat : repeat;
+    Padding-left : 1em;
+    Padding-right : 1em;
+}
+font.AyahArabic
+{
+    FONT-SIZE : 30px;
+    COLOR : rgb(0 , 0 , 153);
+}
+TD.AyahAndHadith
+{
+    FONT-SIZE : 16px;
+    COLOR : black;
+    BACKGROUND-COLOR : rgb(255 , 255 , 255);
+    Font-family : Comic Sans MS , Verdana , Arial , helvetica , sans-serif;
+}
+TD.TitleHead
+{
+    FONT-WEIGHT : bold;
+    FONT-SIZE : 18px;
+    COLOR : rgb(255 , 255 , 255);
+    BACKGROUND-COLOR : rgb(51 , 102 , 204);
+    FONT-FAMILY : Verdana , Arial , helvetica , sans-serif;
+    PADDING-RIGHT : 4px;
+    PADDING-LEFT : 4px;
+    PADDING-BOTTOM : 4px;
+    PADDING-TOP : 4px;
+}
+TD.menu
+{
+    BACKGROUND-COLOR : rgb(249 , 249 , 245);
+}
