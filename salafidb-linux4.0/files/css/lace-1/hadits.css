@@ -1,0 +1,160 @@
+body
+{
+    font : arial;
+    color : rgb(153 , 0 , 51);
+    Background-image : url("body.gif");
+    Background-repeat : repeat-y;
+    Background-position : top left;
+}
+#arabic
+{
+    Font-family : "Traditional Arabic";
+    Font-weight : 400;
+    Font-size : x-large;
+    Color : blue;
+    Padding-top : 0.5cm;
+    Text-align : right;
+    Text-indent : 1em;
+    Padding-bottom : 0.5cm;
+}
+
+#footnotenumber
+{
+    Font-size : small;
+    Color : #006633;
+}
+#footnote
+{
+    Font-weight : 400;
+    Font-size : small;
+    Color : black;
+    Padding-bottom : 0.5cm;
+}
+#bab
+{
+    Font-size : medium;
+    Color : blue;
+}
+#kitab
+{
+    Font-size : medium;
+    Color : blue;
+    Font-weight : bold;
+}
+
+
+#singkatan2
+{
+    Font-family : "Traditional Arabic";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Color: #996666;
+    Font-size : medium;
+}
+#singkatan
+{
+    Font-family : "AGA Arabesque";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Font-size : small;
+}
+#judul
+{
+    Text-align : right;
+    Color: black;
+}
+#container
+{
+    padding : 0px 10px 0px 20px;
+    font-style : normal;
+    font-variant : normal;
+    Text-align : left;
+}
+#penjelasanjudul
+{
+    Font-size : large;
+    Font-weight : bold;
+    Font-variant : small-caps;
+    Margin-top : 1.5em;
+    Margin-bottom : 0.5em;
+    Color : black;
+    Padding-top : 0.7cm;
+    Padding-bottom : 0.5cm;
+}
+#penjelasanisi
+{
+    Font-size : medium;
+    Color : black;
+    Font-variant : normal;
+    Font-style : normal;
+}
+#penjelasansumber
+{
+    Font-size : x-small;
+    Color : rgb(0 , 51 , 51);
+    Text-indent : 0em;
+    Background-color : rgb(255 , 255 , 204);
+}
+#keterangan
+{
+    Font-variant : small-caps;
+    Font-size : small;
+    Color : white;
+    Background-color : #009999;
+}
+#matanheader
+{
+}
+#matantail
+{
+    Font-variant : normal;
+    Font-size : small;
+    Color : #009999;
+    Padding-bottom : 0.5em;
+    Padding-top : 0.5cm;
+    font-weight : bold;
+}
+#matanisi
+{
+    Font-size : medium;
+    Color : black;
+    Text-align : left;
+    Margin-bottom : 0.8cm;
+}
+#penulis
+{
+    font-weight : 500;
+    font-size : medium;
+    Text-align : left;
+    Margin-bottom : 0.5cm;
+    Color : #336669;
+}
+#matan
+{
+    Font-variant : normal;
+    Font-weight : 450;
+    Font-size : medium;
+    Color : #336669;
+    Text-align : left;
+    Margin-top : 0.5cm;
+}
+#kitabhadits
+{
+    font-style : normal;
+    font-weight : 700;
+    font-size : large;
+    Text-align : left;
+    Font-variant : small-caps;
+    Color : #336669;
+
+}
+#copyright
+{
+    font-family : sans-serif;
+    color : gray;
+    font-style : normal;
+    font-size : x-small;
+    Text-align : left;
+    Text-indent : 1em;
+    Font-variant : normal;
+}

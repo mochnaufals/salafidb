@@ -1,0 +1,157 @@
+body
+{
+    Background-image : url("we-yellow2.jpg");
+    Background-repeat : repeat-y;
+    Background-position : top left;
+}
+#arabic
+{
+Margin-top : 0.5cm;
+    Font-family : "Traditional Arabic";
+    Font-weight : 400;
+    Font-size : x-large;
+    Color : maroon;
+    Text-align : right;
+	
+}
+#footnotenumber
+{
+    Font-size : small;
+    Color : #006633;
+}
+#footnote
+{
+    Font-variant : small-caps;
+    Font-weight : 400;
+    Font-size : small;
+    Color : black;
+    Padding-bottom : 0.5cm;
+}
+#bab
+{
+    Font-size : medium;
+    Color : maroon;
+}
+#kitab
+{
+    Font-size : medium;
+    Color : maroon;
+    Font-weight : bold;
+}
+
+
+#singkatan2
+{
+    Font-family : "Traditional Arabic";
+    Font-variant : normal;
+    Vertical-align : middle;
+Font-size : medium;
+}
+#singkatan
+{
+    Font-family : "AGA Arabesque";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Font-size : small;
+}
+#judul
+{
+    color : green;
+}
+#penulis
+{
+    font-weight : 500;
+    font-size : small;
+    Text-align : center;
+    color : black;
+    Margin-bottom : 0.5cm;
+}
+#kitabhadits
+{
+    font-style : normal;
+    font-weight : 700;
+    font-size : large;
+    Text-align : center;
+    Font-variant : small-caps;
+    color : black;
+}
+#container
+{
+    padding : 0px 10px 0px 30px;
+    font-style : normal;
+    font-variant : normal;
+    Text-align : left;
+}
+#penjelasanjudul
+{
+    Font-size : large;
+    Font-weight : bold;
+    Font-variant : small-caps;
+    Margin-top : 0.5cm;
+    Margin-bottom : 0.5cm;
+    Color : green;
+}
+#penjelasanisi
+{
+    Font-size : medium;
+    Color : black;
+    Font-weight : 450;
+    Font-variant : normal;
+    Font-style : normal;
+}
+#penjelasansumber
+{
+    Font-variant : small-caps;
+    Font-size : x-small;
+    Color : rgb(0 , 51 , 51);
+    Text-indent : 0em;
+    Background-color : rgb(255 , 255 , 204);
+}
+#keterangan
+{
+    Font-variant : small-caps;
+    Font-size : small;
+    Color : white;
+    Background-color : #666633;
+Margin-top : 0.5cm;
+
+}
+#matanheader
+{
+}
+#matantail
+{
+    Font-variant : small-caps;
+    Font-size : small;
+    Color : maroon;
+    Padding-bottom : 0.5em;
+	Padding-top : 0.5cm;
+}
+#matanisi
+{
+    Font-variant : normal;
+    Font-weight : bold;
+    Font-size : medium;
+    Color : black;
+    Text-align : left;
+    Margin-bottom : 0.5cm;
+	Margin-top : 0.5cm;
+}
+#matan
+{
+    Font-variant : normal;
+    Font-weight : normal;
+    Font-size : small;
+    Color : rgb(0 , 51 , 0);
+    Text-align : left;
+}
+#copyright
+{
+    color : blue;
+    font-style : normal;
+    font-size : small;
+    Text-align : left;
+    Text-indent : 1cm;
+    Font-variant : normal;
+}
+

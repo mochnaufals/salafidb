@@ -1,0 +1,170 @@
+
+body
+{
+    font : small georgia;
+    color : rgb(85 , 87 , 83);
+    Background-image : url("sakura.jpg");
+    Background-repeat : repeat-y;
+    Background-position : top left;
+}
+
+
+#arabic
+{
+    Font-family : "Traditional Arabic";
+    Font-weight : 400;
+    Font-size : 27pt;
+    Color : maroon;
+    Text-align : right;
+    Text-indent : 1em;
+    Padding-bottom : 0.5cm;
+    Padding-top : 0.7cm;
+}
+
+#footnotenumber
+{
+    Font-size : small;
+    Color : #006633;
+}
+#footnote
+{
+    Font-family : sans-serif;
+    Font-variant : small-caps;
+    Font-weight : 400;
+    Font-size : small;
+    Color : black;
+	Padding-bottom : 0.5cm;
+}
+#bab
+{
+    Font-family : georgia;
+    Font-size : small;
+    Color : maroon;
+}
+#kitab
+{
+    Font-family : georgia;
+    Font-size : medium;
+    Color : maroon;
+	
+}
+
+#singkatan
+{
+    Font-family : "AGA Arabesque";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Font-size : larger;
+}
+#singkatan2
+{
+    Font-family : "Traditional Arabic";
+    Font-variant : normal;
+    Vertical-align : middle;
+Font-size : medium;
+}
+
+
+#container
+{
+    padding : 0px 10px 0px 35px;
+    font-style : normal;
+    font-variant : normal;
+    font-size : 11pt;
+    Font-family : georgia;
+    Text-align : left;
+}
+#penjelasanjudul
+{
+    Font-size : large;
+    Font-weight : bold;
+    Font-variant : small-caps;
+    Padding-top : 0.7cm;
+    Padding-bottom : 0.5cm;
+    Color : black;
+}
+#penjelasanisi
+{
+    Font-size : medium;
+    Color : black;
+    Font-variant : normal;
+    Font-style : normal;
+}
+#penjelasansumber
+{
+    Font-family : georgia;
+    Font-variant : small-caps;
+    Font-size : x-small;
+    Color : rgb(0 , 51 , 51);
+    Text-indent : 0em;
+    Background-color : rgb(255 , 255 , 204);
+}
+#keterangan
+{
+    Font-family : georgia;
+    Font-variant : small-caps;
+    Font-size : small;
+    Color : maroon;
+    Text-indent : 0em;
+    Background-color : #ffcccc;
+}
+
+#matanheader
+{
+}
+#matantail
+{
+    Font-family : georgia;
+    Font-variant : normal;
+    Font-size : small;
+    Color : maroon;
+    Padding-bottom : 0.5cm;
+	Padding-top : 0.5cm;
+	Text-align : left;
+}
+#matanisi
+{
+    font-family : "Georgia";
+    Font-variant : normal;
+    Font-weight : bold;
+    Font-size : medium;
+    Text-align : left;
+    Padding-bottom : 0.5cm;
+}
+#penulis
+{
+    font-family : "Georgia";
+    font-weight : 500;
+    font-size : small;
+    Text-align : center;
+    Color : green;
+    Padding-bottom : 0.5cm;
+}
+#matan
+{
+    Font-variant : normal;
+    Font-weight : normal;
+    Font-size : medium;
+    Color : rgb(0 , 51 , 0);
+    Text-align : justify;
+}
+#kitabhadits
+{
+    font-family : "Trebuchet MS";
+    Color : green;
+    font-style : normal;
+    font-weight : 700;
+    font-size : large;
+    Text-align : center;
+    Font-variant : small-caps;
+}
+#copyright
+{
+    font-family : sans-serif;
+    color : blue;
+    font-style : normal;
+    font-size : small;
+    Text-align : left;
+    Text-indent : 1cm;
+    Font-variant : normal;
+}

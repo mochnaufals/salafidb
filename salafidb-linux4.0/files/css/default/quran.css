@@ -1,0 +1,153 @@
+#transliteration
+{
+    Color : black;
+    Font-size : small;
+    Margin-top : 0.5cm;
+    Font-style : italic;
+}
+body
+{
+    font : large georgia;
+    color : rgb(153 , 0 , 51);
+    Background-image : url("body.jpg");
+    Background-repeat : repeat-y;
+    Background-position : top left;
+}
+#yusuftext
+{
+    Font-size : medium;
+    Padding-top : 0.3cm;
+    Color : black;
+	Font-weight : 450;
+}
+#khantext
+{
+    Padding-top : 0.3cm;
+    Color : black;
+    Font-size : medium;
+	Font-weight : 450;
+}
+#titleatbottom{
+    Font-size : small;
+    Padding-top : 0.5cm;
+    Color : black;
+    Text-align : right
+}
+
+#yusuftitle
+{
+    Padding-top : 0.7cm;
+    Font-size : large;
+    Color : #666600;
+    Text-indent : 0em;
+    Font-variant : small-caps;
+	Font-weight : 450;
+}
+#khantitle
+{
+    Padding-top : 1.0cm;
+    Font-size : large;
+    Color : #666600;
+    Text-indent : 0em;
+    Font-variant : small-caps;
+	Font-weight : 450;
+}
+#footnotenumber
+{
+    Font-size : small;
+    Color : maroon;
+    Vertical-align : super;
+}
+#footnoteline
+{
+    Color : black;
+    Text-align : left;
+    Text-indent : 0em;
+    Padding-top : 0.8cm;
+}
+#footnote
+{
+    Font-variant : small-caps;
+    Font-weight : 400;
+    Font-size : small;
+    Color : rgb(0 , 0 , 0);
+    Text-indent : 0em;
+}
+#translationtext
+{
+    Font-family : Arial;
+    Font-weight : 420;
+    Font-size : medium;
+    Color : #990066;
+    Padding-top : 0.7cm;
+    Text-align : left;
+}
+#arabic
+{
+    Font-family : "Traditional Arabic";
+    Font-weight : 400;
+    Font-size : xx-large;
+    Color : black;
+    Padding-top : 1cm;
+    Text-align : right;
+}
+#title
+{
+    Text-align : center;
+    Background-repeat : no-repeat;
+    Background-position : top left;
+    Background-color : transparent;
+    color : #666600;
+    Font-size : large;
+}
+#container
+{
+    padding : 0px 10px 0px 20px;
+    font-style : normal;
+    font-variant : normal;
+    font-size : 11pt;
+    Font-family : georgia;
+}
+#verse
+{
+    font-family : "Georgia";
+    font-weight : 500;
+    font-size : large;
+    Text-align : center;
+	color : #666600;
+}
+#surah
+{
+    font-family : "Comic Sans MS";
+    font-style : normal;
+    font-weight : 700;
+    font-size : 22pt;
+    Text-align : center;
+    Font-variant : small-caps;
+	color : #666600;
+}
+#copyright
+{
+    font-family : sans-serif;
+    color : blue;
+    font-style : normal;
+    font-size : small;
+    Text-align : left;
+    Text-indent : 1em;
+    Font-variant : normal;
+}
+#singkatan
+{
+    Font-family : "AGA Arabesque";
+    Font-variant : normal;
+    Vertical-align : middle;
+    Font-size : larger;
+}
+#singkatan2
+{
+    Font-family : "Traditional Arabic";
+    Font-variant : normal;
+    Vertical-align : middle;
+	Color : #999900;
+font-size : medium;
+}
