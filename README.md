@@ -5,7 +5,9 @@ Repo ini digunakan utamanya sebagai source AUR (Arch User Repository).
 
 بارك الله فيكم
 
-## Catatan Sementara (untuk AUR, ada kemungkinan perubahan)
+## Catatan Sementara
+
+Untuk AUR. Ada kemungkinan perubahan.
 
 Folder `salafidb-linux4.0` harus direname menjadi `salafidb` dan ditaruh di `/usr/share/`.
 
@@ -23,3 +25,5 @@ Beberapa yang perlu dilakukan sebelum submission adalah:
 1. Membuat binary yang source-nya berada di `/usr/share/java/salafidb`.
 2. Mengubah direktori source menjadi direktori tersebut.
 3. Mengikuti petunjuk berikutnya.
+
+Tapi karena repot, sementara tetap menggunakan aturan pada [Catatan Sementara](#Catatan-Sementara).
