@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=salafidb
+Comment=Pustaka Ilmu Salafiyyah
+Exec=salafidb
+Icon=salafidb
+Categories=library;java;
+Terminal=false
+Path=/usr/share/salafidb
